@@ -7,12 +7,22 @@
   }
   
   /* Task 1 */
-  
+  h3 {
+    color: blue;
+  }
   /* Task 2 */
-  
+  .list-red {
+    color: red;
+  }
   /* Task 3 */
-  
+  img+img {
+    border: 3px solid indigo;
+  }
   /* Task 4 */
-  
+  a[href$=".com"] {
+    background-color: yellow;
+  }
   /* Task 5 */
-  
+  #task-five {
+    color: rgb(140, 0, 80);
+  }
